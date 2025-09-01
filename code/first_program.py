@@ -1,0 +1,5 @@
+print("Jai Shri Ram 🚩🏹🙏")
+print('Jai Shri Krishna 🕉️🙏')
+print("Jai Mata Di 🙏🌸")
+print("Jai Shri Hanuman 🐒🙏")
+print("Jai Kali Maa 🙏🌸")
