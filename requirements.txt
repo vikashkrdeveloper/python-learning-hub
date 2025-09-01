@@ -1,0 +1,9 @@
+certifi==2025.8.3
+charset-normalizer==3.4.3
+idna==3.10
+pyjokes==0.8.3
+pyttsx3==2.99
+requests==2.32.5
+setuptools==80.9.0
+urllib3==2.5.0
+wheel==0.45.1
