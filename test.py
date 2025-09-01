@@ -1,3 +1,3 @@
-''' Jay Shree Krishna '''
+''' Jai Shri Krishna '''
 
-print("Jay Shree Krishna");
+print("Jai Shri Krishna");
