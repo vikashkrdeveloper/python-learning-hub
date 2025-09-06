@@ -50,7 +50,7 @@ Here, MSB = 1, so it’s negative.
 
 6. >> (Right Shift)
    - Shifts bits to the right, filling with 0s on the left (for positive numbers).
-   Example:  1010 >> 1 = 0101
+   Example:  1010 >> 1 = 0101 
 """
 
 
