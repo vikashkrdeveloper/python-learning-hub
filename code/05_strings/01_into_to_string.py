@@ -15,3 +15,6 @@ name = "Vikash"  # String variable
 print(name)  # Output: Vikash
 print(type(name))  # Output: <class 'str'>
 print(len(name))  # Output: 6 (length of the string)
+
+
+# String are immutable they cannot be changed once created. if used any method/function on string it will return new string.
