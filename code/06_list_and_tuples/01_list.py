@@ -8,7 +8,7 @@ A list is a collection which is ordered and changeable. In Python, lists are wri
 # 2. Changeable: You can change, add, and remove items in a list after it has been created.
 # 3. Allows Duplicate Values: Since lists are indexed, they can have items with the same value.
 # 4. Heterogeneous: A list can contain items of different data types, including other lists.
-# 5. Dynamic: Lists can grow and shrink in size as needed.
+# 5. Dynamic: Lists can grow and shrink in size as needed. 
 """
 
 
