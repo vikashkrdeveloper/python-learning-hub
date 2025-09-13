@@ -25,6 +25,8 @@ my_list.pop()
 print("After Pop:", my_list)
 my_list.sort(key=str)  # Sorting with key to handle mixed types
 print("After Sort:", my_list)
+my_list.reverse()
+print("After Reverse:", my_list)
 
 # Output:
 # Initial List: [1, 2, 3, 'Hello', 5.5, True]
