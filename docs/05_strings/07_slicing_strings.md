@@ -27,8 +27,8 @@ By leaving out the start index, the range will start at the first character.
 
 Get the characters from the start to position 5 (not included):
 
-```python
-b = "Hello, World!"
+````python
+b = "Hello, World! ==> hello"
 print(b[:5])
 ```
 
@@ -45,7 +45,7 @@ Get the characters from position 2, and all the way to the end:
 ```python
 b = "Hello, World!"
 print(b[2:])
-```
+````
 
 ---
 
