@@ -10,7 +10,7 @@ For example, to include a double quote inside a string that is surrounded by dou
 
 ```python
 # This will cause an error
-txt = "We are the so-called "Vikings" from the north."
+txt = "We are the so-called "Vikings ==> Vikings" from the north."
 ```
 
 To fix this, use the escape character `\"`:

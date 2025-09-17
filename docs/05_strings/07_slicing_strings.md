@@ -11,7 +11,7 @@ You can return a range of characters by using the slice syntax. Specify the star
 Get the characters from position 2 to position 5 (not included):
 
 ```python
-b = "Hello, World!"
+b = "Hello, World! ==> hello"
 print(b[2:5])
 ```
 
@@ -43,7 +43,7 @@ By leaving out the end index, the range will go to the end.
 Get the characters from position 2, and all the way to the end:
 
 ```python
-b = "Hello, World!"
+b = "Hello, World! ==> hello"
 print(b[2:])
 ````
 
@@ -61,7 +61,7 @@ Get the characters:
 - To, but not included: "d" in "World!" (position -2):
 
 ```python
-b = "Hello, World!"
+b = "Hello, World! ==> hello"
 print(b[-5:-2])
 ```
 
