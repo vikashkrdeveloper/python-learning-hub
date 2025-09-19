@@ -19,8 +19,8 @@ You can use quotes inside a string, as long as they don't match the quotes surro
 
 ```python
 print("It's alright ==> Its alright")
-print("He is called 'Johnny'")
-print('He is called "Johnny"')
+print("He is called 'Johnny' ==> He is called 'Johnny'")
+print('He is called "Johnny" ==> He is called "Johnny"')
 ```
 
 ## Assign String to a Variable

@@ -72,7 +72,7 @@ print(b[-5:-2])
 What will be the result of the following code?
 
 ```python
-x = 'Welcome ==>'
+x = 'Welcome ==> python'
 print(x[3:5])
 ```
 
