@@ -11,10 +11,10 @@ You can use the `+` operator to concatenate strings in Python.
 Merge variable `a` with variable `b` into variable `c`:
 
 ```python
-a = "Hello"
+a = "Hello ==> "
 b = "World"
 c = a + b
-print(c)  # Output: HelloWorld
+print(c)  # Output: Hello ==> World
 ```
 
 ### Adding a Space Between Strings

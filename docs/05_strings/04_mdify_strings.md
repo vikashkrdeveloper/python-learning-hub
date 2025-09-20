@@ -7,7 +7,7 @@ Python provides a set of built-in methods to manipulate strings. This guide cove
 The `upper()` method returns the string in upper case:
 
 ```python
-a = "Hello, World!"
+a = "Hello, World! ==> "
 print(a.upper())
 ```
 
@@ -16,7 +16,7 @@ print(a.upper())
 The `lower()` method returns the string in lower case:
 
 ```python
-a = "Hello, World!"
+a = "Hello, World! ==> "
 print(a.lower())
 ```
 
