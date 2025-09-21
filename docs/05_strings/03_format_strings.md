@@ -7,7 +7,7 @@ As we learned in the Python Variables chapter, you cannot combine strings and nu
 ```python
 age = 36
 # This will produce an error:
-txt = "My name is John, I am " + age
+txt = "My name is John, I am ==> " + age
 print(txt)
 ```
 
@@ -25,7 +25,7 @@ To create an f-string, prefix the string with `f` and use curly braces `{}` as p
 
 ```python
 age = 36
-txt = f"My name is John, I am {age}"
+txt = f"My name is John, I am ==> {age}"
 print(txt)
 ```
 

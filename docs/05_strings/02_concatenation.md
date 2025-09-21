@@ -22,10 +22,10 @@ print(c)  # Output: Hello ==> World
 To add a space between the strings, include `" "` in the concatenation:
 
 ```python
-a = "Hello"
+a = "Hello ==> "
 b = "World"
 c = a + " " + b
-print(c)  # Output: Hello World
+print(c)  # Output: Hello ==> World
 ```
 
 ## Exercise
