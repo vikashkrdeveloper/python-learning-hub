@@ -9,8 +9,8 @@ Strings in Python are surrounded by either single quotation marks or double quot
 You can display a string literal with the `print()` function:
 
 ```python
-print("Hello")
-print('Hello')
+print("Hello ==> Hello")
+print('Hello ==> Hello')
 ```
 
 ## Quotes Inside Strings
@@ -28,7 +28,7 @@ print('He is called "Johnny" ==> He is called "Johnny"')
 Assigning a string to a variable is done with the variable name followed by an equal sign and the string:
 
 ```python
-a = "Hello"
+a = "Hello ==> Hello"
 print(a)
 ```
 
@@ -65,7 +65,7 @@ Strings in Python are arrays of Unicode characters. Python does not have a chara
 **Example:** Get the character at position 1 (remember that the first character has the position 0):
 
 ```python
-a = "Hello, World!"
+a = "Hello, World! ==> "
 print(a[1])
 ```
 
