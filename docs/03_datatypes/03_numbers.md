@@ -21,8 +21,8 @@ z = 1j   # complex
 To verify the type of any object in Python, use the `type()` function:
 
 ```python
-print(type(x))
-print(type(y))
+print(`The type of x is:`, type(x))
+print(`The type of y is:`, type(y))
 print(type(z))
 ```
 
