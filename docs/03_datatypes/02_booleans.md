@@ -34,8 +34,8 @@ The `bool()` function allows you to evaluate any value and gives you `True` or `
 **Example: Evaluate a string and a number**
 
 ```python
-print(bool("Hello"))
-print(bool(15))
+print(f"The types of bool(\"Hello\") is {type(bool(\"Hello\"))}")
+print(f"The types of bool(15) is {type(bool(15))}")
 ```
 
 **Example: Evaluate two variables**
