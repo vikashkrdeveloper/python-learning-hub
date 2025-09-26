@@ -5,7 +5,7 @@ This repository contains example programs, notes, and experiments I’ve created
 
 ---
 
-## 📌 What’s Inside
+## 📌 What’s Inside 
 
 - **Beginner Programs**: Basic syntax, variables, data types, and operators.
 - **Practical Examples**: Small Python scripts solving real problems.
