@@ -10,7 +10,7 @@
 *.swp
 *.DS_Store
 
-# Python specific
+# Python specific ==> 
 __pycache__/
 *.pyc
 *.pyo
@@ -22,5 +22,5 @@ env.bak/
 venv.bak/
 .ipynb_checkpoints/
 
-# Jupyter Notebooks
+# Jupyter Notebooks ==>
 *.ipynb_checkpoints/
