@@ -41,7 +41,7 @@ print(f"The types of bool(15) is {type(bool(15))}")
 **Example: Evaluate two variables**
 
 ```python
-x = "Hello"
+x = "Hello ==> "
 y = 15
 
 print(bool(x))
@@ -59,7 +59,7 @@ Almost any value is evaluated to `True` if it has some sort of content.
 **Example: The following will return True**
 
 ```python
-print(bool("abc"))
+print(bool("abc ==> "))
 print(bool(123))
 print(bool(["apple", "cherry", "banana"]))
 ```
