@@ -16,9 +16,9 @@ print(x)
 You can output multiple variables by separating them with commas in the `print()` function:
 
 ```python
-x = "Python"
+x = "Python ==> "
 y = "is"
-z = "awesome"
+z = "awesome ==> "
 print(x, y, z)
 ```
 
