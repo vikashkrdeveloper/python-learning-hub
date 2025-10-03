@@ -36,3 +36,6 @@ Twinkle, twinkle, little star,
 How I wonder what you are!
 """
 )
+
+print("Jai Shri Ram 🚩🏹🙏")
+print("Jai Shri Krishna 🕉️🙏")
